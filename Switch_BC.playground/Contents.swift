@@ -20,4 +20,5 @@ case (0,_):
 
 default:
     print("your point is Origin")
+//test
 }
